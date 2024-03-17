@@ -231,7 +231,7 @@ exclude:
   - _pages/profiles
   - _pages/projects
   - _pages/repositories
-  - 
+  - asset/jupyter
 keep_files:
   - CNAME
   - .nojekyll
