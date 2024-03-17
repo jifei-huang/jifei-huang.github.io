@@ -123,7 +123,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Jifei's blog # blog_name will be displayed in your blog page
+blog_name: Jifei's Blog # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -231,6 +231,7 @@ exclude:
   - _pages/profiles
   - _pages/projects
   - _pages/repositories
+  - 
 keep_files:
   - CNAME
   - .nojekyll
