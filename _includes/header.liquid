@@ -122,7 +122,7 @@
     </div>
   </nav>
   <!-- Intro header image -->
-  {% if page.permalink == '/' %}
+  {% if page.show-hearder-image %}
     <div class="intro-header", style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     </div>
   {% endif %}
