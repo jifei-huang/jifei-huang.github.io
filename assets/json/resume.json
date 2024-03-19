@@ -33,7 +33,8 @@
       "position": "Research Assistant",
       "startDate": "2024-01",
       "endDate": "2024-06",
-      "summary": "Low temperatrure scanning tunneling microscopy and molecular beam epitaxy."
+      "summary": "Low temperatrure scanning tunneling microscopy and molecular beam epitaxy.",
+      "discription": "Supervised by Dr. Can-Li Song"
     },
     {
       "name": "National University of Singapore",
@@ -41,6 +42,7 @@
       "startDate": "2021-08",
       "endDate": "2024-01",
       "summary": "Microwave resonances of ultrathin chiral multilayers and nanostructures.",
+      "discription": "Supervised by Dr. Anjan Soumyanarayanan",
       "highlights": ["Built a microwave spectroscopy system from scratch", "Explore the dynamics of chiral spin textures in multilayer films", "Proposed theoretical models supported by micromagnetic simulations"]
     },
     {
@@ -48,7 +50,8 @@
       "position": "Research Assistant",
       "startDate": "2019-09",
       "endDate": "2021-06",
-      "summary": "Phase-field simulations of low magnetic susceptibility materials."
+      "summary": "Phase-field simulations of low magnetic susceptibility materials.",
+      "discription": "Supervised by Dr. Shun Wang"
     }
   ],
   "publications": [
