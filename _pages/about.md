@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <span class="font-weight-bold"> Welcome to my mainpage. </span>
+  <span class="font-weight-bold"> Welcome to my homepage. </span>
 
 profile:
   align: left
