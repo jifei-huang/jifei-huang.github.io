@@ -18,5 +18,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 show-hearder-image: true
 ---
-I am an incoming PhD student at UW-Madison majoring experimental condensed matter physics physics. After graduating from
+I am an incoming PhD student at UW-Madison majoring experimental condensed matter physics. After graduating from
 [National Unversity of Singapore](https://www.physics.nus.edu.sg/), where I specialized in the dynamics of chiral magnetism, I will transition to research on the emerging fields of two-dimensional magnetism and twistronics. 
