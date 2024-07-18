@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Incoming PhD student in <a href='https://www.physics.wisc.edu/'> Physics at University of Wisconsin–Madison </a></p>
-    <p>email: <a href='mailto:huang_jifei@u.nus.edu'>jifei.huang@wisc.edu</a></p>
+    <p>email: <a href='mailto:jifei.huang@wisc.edu'>jifei.huang@wisc.edu</a></p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
