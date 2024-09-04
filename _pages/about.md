@@ -14,7 +14,7 @@ profile:
     <p>email: <a href='mailto:jifei.huang@wisc.edu'>jifei.huang@wisc.edu</a></p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 show-hearder-image: true
 ---
