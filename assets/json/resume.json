@@ -9,6 +9,15 @@
   },
   "education": [
     {
+      "institution": "University of Wisconsin–Madison",
+      "location": "Madison, WI, USA",
+      "url": "https://www.wisc.edu/",
+      "studyType": "Ph.D. Candidate in Physics",
+      "startDate": "2024-06",
+      "endDate": "",
+      "courses": ["Advisor: Dr. Tiancheng Song"]
+    },
+    {
       "institution": "National University of Singapore",
       "location": "Singapore",
       "url": "https://www.nus.edu.sg/",
@@ -29,11 +38,19 @@
   ],
   "experience": [
     {
+      "name": "University of Wisconsin–Madison",
+      "position": "Research Assistant",
+      "startDate": "2024-06",
+      "endDate": "",
+      "summary": "Experimental condensed matter physics with a focus on 2D magnetism and twistronics.",
+      "discription": "Supervised by Dr. Tiancheng Song"
+    },
+    {
       "name": "Tsinghua University",
       "position": "Research Assistant",
       "startDate": "2024-01",
       "endDate": "2024-06",
-      "summary": "Low temperatrure scanning tunneling microscopy and molecular beam epitaxy.",
+      "summary": "Low temperature scanning tunneling microscopy and molecular beam epitaxy.",
       "discription": "Supervised by Dr. Can-Li Song"
     },
     {
@@ -61,7 +78,6 @@
       "releaseDate": "",
       "summary": ""
     },
-
     {
       "name": "All-Electrical Skyrmionic Bits in a Chiral Magnetic Tunnel Junction",
       "publisher": "Nature",
